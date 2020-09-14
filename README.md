@@ -65,13 +65,8 @@ CursoR::atualizar_material()
 | <a href='https://curso-r.github.io/main-intro-ml/exemplos/14-adult-exemplo-submissao.R'>exemplos/14-adult-exemplo-submissao.R</a>                     |
 | <a href='https://curso-r.github.io/main-intro-ml/exemplos/15-steps.Rmd'>exemplos/15-steps.Rmd</a>                                                     |
 
-| Scripts feitos em aula                                                                                                                               |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <a href='https://curso-r.github.io/202006-intro-ml/scripts_feitos_em_aula/01-tidymodels.R'>scripts\_feitos\_em\_aula/01-tidymodels.R</a>             |
-| <a href='https://curso-r.github.io/202006-intro-ml/scripts_feitos_em_aula/02-overfitting.R'>scripts\_feitos\_em\_aula/02-overfitting.R</a>           |
-| <a href='https://curso-r.github.io/202006-intro-ml/scripts_feitos_em_aula/03-cross-validation.R'>scripts\_feitos\_em\_aula/03-cross-validation.R</a> |
-| <a href='https://curso-r.github.io/202006-intro-ml/scripts_feitos_em_aula/05-regressao-linear.R'>scripts\_feitos\_em\_aula/05-regressao-linear.R</a> |
-| <a href='https://curso-r.github.io/202006-intro-ml/scripts_feitos_em_aula/99-ignorar.R'>scripts\_feitos\_em\_aula/99-ignorar.R</a>                   |
+| Scripts feitos em aula |
+| :--------------------- |
 
 | Exercícios                                                                                                                    |
 | :---------------------------------------------------------------------------------------------------------------------------- |
