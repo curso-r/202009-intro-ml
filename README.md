@@ -53,6 +53,7 @@ CursoR::atualizar_material()
 | <a href='https://curso-r.github.io/main-intro-ml/exemplos/03-cross-validation.R'>exemplos/03-cross-validation.R</a>                                   |
 | <a href='https://curso-r.github.io/main-intro-ml/exemplos/04-hiperparametros.R'>exemplos/04-hiperparametros.R</a>                                     |
 | <a href='https://curso-r.github.io/main-intro-ml/exemplos/05-regressao-linear.R'>exemplos/05-regressao-linear.R</a>                                   |
+| <a href='https://curso-r.github.io/main-intro-ml/exemplos/06-regressao-logistica-v2.R'>exemplos/06-regressao-logistica-v2.R</a>                       |
 | <a href='https://curso-r.github.io/main-intro-ml/exemplos/06-regressao-logistica.R'>exemplos/06-regressao-logistica.R</a>                             |
 | <a href='https://curso-r.github.io/main-intro-ml/exemplos/07-regressao-linear-com-lasso-na-mao.R'>exemplos/07-regressao-linear-com-lasso-na-mao.R</a> |
 | <a href='https://curso-r.github.io/main-intro-ml/exemplos/08-normalizacao-lasso-recipes.R'>exemplos/08-normalizacao-lasso-recipes.R</a>               |
