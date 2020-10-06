@@ -39,12 +39,13 @@ CursoR::atualizar_material()
 
 ## Lista de arquivos e códigos
 
-| Slides                                                                                                                    |
-| :------------------------------------------------------------------------------------------------------------------------ |
-| <a href='https://curso-r.github.io/main-intro-ml/slides/00-intro-curso.html'>slides/00-intro-curso.html</a>               |
-| <a href='https://curso-r.github.io/main-intro-ml/slides/01-intro-ml.html'>slides/01-intro-ml.html</a>                     |
-| <a href='https://curso-r.github.io/main-intro-ml/slides/03-modelos-de-arvores.html'>slides/03-modelos-de-arvores.html</a> |
-| <a href='https://curso-r.github.io/main-intro-ml/slides/04-dataprep.html'>slides/04-dataprep.html</a>                     |
+| Slides                                                                                                                                             |
+| :------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href='https://curso-r.github.io/main-intro-ml/slides/00-intro-curso.html'>slides/00-intro-curso.html</a>                                        |
+| <a href='https://curso-r.github.io/main-intro-ml/slides/01-intro-ml.html'>slides/01-intro-ml.html</a>                                              |
+| <a href='https://curso-r.github.io/main-intro-ml/slides/03-modelos-de-arvores.html'>slides/03-modelos-de-arvores.html</a>                          |
+| <a href='https://curso-r.github.io/main-intro-ml/slides/04-dataprep.html'>slides/04-dataprep.html</a>                                              |
+| <a href='https://github.com/curso-r/202005-xgboost/raw/master/slides/slides_xgb_teoria_e_passo_a_passo.pdf'>slides/05-xgboost\_passo\_a\_passo</a> |
 
 | Exemplos                                                                                                                                              |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------- |

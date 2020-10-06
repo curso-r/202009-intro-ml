@@ -58,7 +58,8 @@ knitr::kable(escape = FALSE,
     mutate(
       Slides = glue::glue("<a href='{link}'>{slide}</a>")
     ) %>% 
-    select(Slides)
+    select(Slides) %>%
+    add_row(Slides = "<a href='https://github.com/curso-r/202005-xgboost/raw/master/slides/slides_xgb_teoria_e_passo_a_passo.pdf'>slides/05-xgboost_passo_a_passo</a>")
 )
 ```
 
